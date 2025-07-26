@@ -7,4 +7,4 @@ Projetos:
 
   Técnicas utilizadas:
 
-  Conclusões
+  Conclusões/ Recomendações
