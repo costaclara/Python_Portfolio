@@ -2,9 +2,10 @@
 
 Projetos:
 
-1) Título
-  Descrição:
+1) *Título*
 
-  Técnicas utilizadas:
+   Descrição:
 
-  Conclusões/ Recomendações
+    Técnicas utilizadas:
+
+    Conclusões/ Recomendações
