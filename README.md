@@ -5,7 +5,7 @@ Projetos:
 1) *Título*
 
    Descrição:
-d
+
     Técnicas utilizadas:
 
     Conclusões/ Recomendações
