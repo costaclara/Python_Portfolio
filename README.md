@@ -1,6 +1,6 @@
 # Python_Portfolio
 
-Proj etos:
+Projetos:
 
 1) *Título*
 
