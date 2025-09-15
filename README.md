@@ -1,6 +1,6 @@
 # Python_Portfolio
 
-P rojetos:
+Projetos:
 
 1) *Título*
 
